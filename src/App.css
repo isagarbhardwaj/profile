@@ -1,0 +1,10 @@
+body {
+    margin: 40px;
+    background-image: linear-gradient(to right, #8360c3, #88efff);
+}
+
+.navbar-brand, .nav-link {
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
